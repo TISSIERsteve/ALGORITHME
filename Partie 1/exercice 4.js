@@ -17,7 +17,7 @@ alert(
 );
 
 // Surface de la cour
-let surfaceCour = longueurCote * 2;
+let surfaceCour = longueurCote * longueurCote;
 // console.log(surfaceCour);
 
 alert(`La surface de la cour est de : ${surfaceCour} ${uniteDeMesureM2}`);
